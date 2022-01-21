@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+  
+}
+
+body {
+ 
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.logo > img {
+  width: 50px;
+
+
+}
+
+@media screen and (min-width: 1025px) {
+  
+  main{
+
+    display: flex;
+    justify-content: space-around;
+  }
+  .product{
+    text-align: center;
+  }
+
+  .navbar{
+    display: flex;
+    justify-content:right;
+    
+    background-color: gray;
+  }
+  .menu{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  
+
+
+
+  .social{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+   figure {
+    width: 30%;
+    margin-right: 2.5%;
+  }
+
+  
+}
