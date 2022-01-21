@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-style: italic;
+}
+h2{
+    color: rgb(41, 110, 172);
+    text-align:center;
+}
+
+body{
+    background-color: bisque;
+    border: 3px solid;
+    border-color: crimson;
+}
+
+p{
+    color: rgb(165, 134, 224);
+    text-align: center;
+}
+#Video{
+    text-align: center;
+    border: 1px double;
+    border-color: cyan;
+}
+
+ul{
+    text-align: right;
+}
+footer{
+
+    opacity: 30%;
+}
